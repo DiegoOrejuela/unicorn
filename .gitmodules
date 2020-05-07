@@ -1,0 +1,3 @@
+[submodule "engines/blorgh"]
+	path = engines/blorgh
+	url = https://github.com/DiegoOrejuela/blorgh.git
